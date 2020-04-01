@@ -7,7 +7,7 @@ A mesma foi desenvolvida na **Semana Omnistack 11.0**, e compõe backend, fronte
 
 ---
 
-<img width="900" height="550" src="https://github.com/leandro-matos/be-the-hero/tree/master/asset/bethehero.jpg">
+<img width="900" height="550" src="<img width="900" height="550" src="https://github.com/leandro-matos/be-the-hero/blob/master/asset/bethehero.jpg">">
 
 
 ## 🚀  Tecnologias
